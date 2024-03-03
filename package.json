@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/AnwarMaxamad797",
+  "homepage": "https://github.com/TohyamaJulia608",
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
@@ -23,7 +23,7 @@
     "react-router-dom": "^6.3.0"
   },
   "repository": {
-    "url": "https://github.com/AnwarMaxamad797/spark-station-douff"
+    "url": "https://github.com/TohyamaJulia608/streamline-solutions-mic"
   },
   "scripts": {
     "build": "tsup"
@@ -33,7 +33,7 @@
     "solutions",
     "project"
   ],
-  "author": "AnwarMaxamad797",
+  "author": "TohyamaJulia608",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.2",
